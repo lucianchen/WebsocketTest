@@ -1,0 +1,7 @@
+{
+  "messageId": "abc",
+  "command": "BADGE",
+  "badgeIds": [
+    1731
+  ]
+}
